@@ -9,6 +9,7 @@ public class Runner
 
         //versiyon 3
         System.out.println("versiyon 3");
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 =======
@@ -17,5 +18,9 @@ public class Runner
 
         //------------------------------
 >>>>>>> Stashed changes
+=======
+        //versiyon 3
+        System.out.println("versiyon 3");
+>>>>>>> ben
     }
 }
